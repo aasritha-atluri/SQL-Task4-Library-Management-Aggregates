@@ -22,7 +22,8 @@ Before running this script, please make sure you have already:
    - Show publishers who published more than 1 book.  
 
 ## Files
-- **task4.sql** → SQL script containing all the queries for Task 4.  
+- **task4.sql** - SQL script containing all the queries for Task 4.
+- **README.md** - Documentation.
 
 ## How to Run
 1. Open MySQL Workbench, CLI, or an online compiler like [OneCompiler](https://onecompiler.com/mysql).  
